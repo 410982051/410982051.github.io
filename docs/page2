@@ -9,8 +9,6 @@
                     text-align: center;}
  h3 {color: rgb(137,39,39);
                     text-align: center;}
-h4 {color: rgb(137,39,39);
-                    text-align: center;}
 	</style>
 <title>Well-known old games that ran on Flash</title>
 </head>
@@ -19,17 +17,17 @@ h4 {color: rgb(137,39,39);
 <h2>Page 1/2<h2>
 <h3>Interactive Buddy<h3>
 <p>Goal: Interactive Buddy is a freen game that allows you to interact with a real fake friend.<p>
-<img src="stickrpg.jpeg" alt="stickrpg.jpeg" title="Interactive Buddy" width="553" height="399" align="middle"/>
+<img src="interactive_buddy.jpeg" alt="interactive_buddy.jpeg" title="Interactive Buddy" width="553" height="399" align="middle"/>
 <p>the Skull kid</p>
-<p>Goal: You are Skull Kid, a insane office worker that wants to kill everyone at the office. Can you make it to the boss?</p>
-<img src="riddleschool.jpeg"
-	alt="Riddle school"
+<p>Goal: You are Skull Kid, an insane office worker that wants to kill everyone at the office. Can you make it to the boss?</p>
+<img src="skull-kid.jpeg"
+	alt="skull-kid.jpeg"
 	title="Skull kid"
         width="553" height="399"
         align="center"/>
 	<p>Madness Interactive</p>
         <p>Desc: An extensive game based on the Madness Combat animations by Krinkels. </p>
-<img src="flash_254456_largest_crop.png" alt="flash_254456_largest_crop.png" title="Madness Interactive" align="center"/>
+<img src="madnessin.png" alt="madnessin.png" title="Madness Interactive" align="center"/>
 
 </body>
 </html
